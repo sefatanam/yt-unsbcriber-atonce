@@ -16,3 +16,7 @@ $$(".yt-uix-button-subscribed-branded").forEach(function (el) {
 ````
  4. Clear your console.
  5. Paste it & see the magic.
+
+### How it works ? 🧓
+
+![10fps](https://user-images.githubusercontent.com/37630292/94128230-b20f4880-fe7b-11ea-8c0d-29c6cbdfff25.gif)
